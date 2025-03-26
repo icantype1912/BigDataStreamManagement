@@ -1,2 +1,1 @@
-# BigDataStreamManagement
-Functional webservices stream management with heartbeat detection using fluentd and kafka
+# EC-Team-31-distributed-logging-system
