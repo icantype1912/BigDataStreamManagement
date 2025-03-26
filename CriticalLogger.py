@@ -4,8 +4,8 @@ import time
 from datetime import datetime
 
 # Kafka configuration
-KAFKA_BROKER = '192.168.191.129:9092'  # Replace with your Kafka broker's IP
-KAFKA_TOPIC = 'service_logs'  # Replace with your topic
+KAFKA_BROKER = '192.168.191.129:9092'  
+KAFKA_TOPIC = 'service_logs'  
 
 # Heartbeat monitoring configuration
 HEARTBEAT_TIMEOUT = 10  # Seconds to wait before considering a node as failed
